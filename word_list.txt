@@ -1,0 +1,1848 @@
+Hunter x Hunter
+    Characters
+        Gon
+        Killua
+        Kurapika
+        Leorio
+        Hisoka
+        Ging
+        Mito
+        Zushi
+        Hisoka
+        Wing
+        Cocco
+        Gido
+        Riehlvelt
+        Sadaso
+        Kastro
+        Machi
+        Illumi
+        Katzo
+        Noko
+        Kiriko
+        Zeno
+        Silva
+        Kikyo
+        Illumi
+        Milluki
+        Alluka
+        Kalluto
+        Zebro
+        Mike
+        Gotoh
+        Killua
+        Canary
+        Seaquant
+        Hishita
+        Gon
+        Killua
+        Hanzo
+        Pokkle
+        Hisoka
+        Illumi
+        Netero
+        Knuckle
+        Morel
+        Knov
+        Palm
+        Ging
+        Binolt
+        Seaquant
+        Lippo
+        Saiyu
+        Buhara
+        Menchi
+        Melody
+        Satotz
+        Biscuit
+        Basho
+        Dwun
+        Goreinu
+        Kite
+        Wing
+        Mereum
+        Neferpitou
+        Shaiapouf
+        Menthuthuyoupi
+        Queen
+        Colt
+        Hagya
+        Leol
+        Flutter
+        Welfin
+        Ikalgo
+        Mosquito
+        Centipede
+        Peggy
+        Rammot
+        Cheetu
+        Bolster
+        Morel
+        Knov
+        Knuckle
+        Shoot
+        Netero
+        Palm
+        Zazan
+        Meleoron
+        Koala
+        Kite
+        Hollow
+        Ortho
+        Remora
+        Gyro
+        Goran
+        Pokoro
+        Alligator
+        Bihorn
+        Turtle
+        Baital
+        Yunju
+        Pike
+        Bat
+        Shidore
+        Hina
+        Biscuit
+        Feitan
+        Phinks
+        Bonolenov
+        Shalnark
+        Kurapika
+        Leorio
+        Hisoka
+        Neon
+        Melody
+        Chrollo
+        Uvogin
+        Shizuku
+        Nobunaga
+        Shalnark
+        Feitan
+        Franklin
+        Phinks
+        Machi
+        Pakunoda
+        Kortopi
+        Bonolenov
+        Owl
+        Porcupine
+        Rabid Dog
+        Leech
+        Worm
+        Silva
+        Zeno
+        Illumi
+        Kalluto
+        Zoldyck
+        Kalluto
+        Zeno
+        Shizuku
+        Ponzu
+        Gon
+        Killua
+        Ging
+        Biscuit
+        Hisoka
+        Battera
+        Nickes
+        Jispa
+        Puhat
+        Genthru
+        Sub
+        Bara
+        Tsezguerra
+        Barry
+        Kess
+        Rodriot
+        Abengane
+        Goreinu
+        Binolt
+        Kazsule
+        Asta
+        Chrollo
+        Shalnark
+        Feitan
+        Phinks
+        Bonolenov
+        Kortopi
+        Machi
+        Shizuku
+        Kalluto
+        Razor
+        Elena
+        Eta
+        Dwun
+        List
+    Villains
+        Ging
+        Hisoka
+        Chrollo
+        Uvogin
+        Shizuku
+        Nobunaga
+        Shalnark
+        Feitan
+        Franklin
+        Phinks
+        Machi
+        Pakunoda
+        Kortopi
+        Bonolenov
+        Binolt
+        Mereum
+        Neferpitou
+        Shaiapouf
+        Menthuthuyoupi
+        Queen
+        Hagya
+        Leol
+        Flutter
+        Welfin
+        Mosquito
+        Centipede
+        Peggy
+        Rammot
+        Cheetu
+        Bolster
+        Zazan
+        Koala
+        Hollow
+        Ortho
+        Remora
+        Gyro
+        Goran
+        Pokoro
+        Alligator
+        Bihorn
+        Turtle
+        Baital
+        Yunju
+        Pike
+        Bat
+        Shidore
+        Hina
+        Genthru
+        Sub
+        Bara
+        Tonpa
+        Gittarackur
+        Illumi
+        Gido
+        Riehlvelt
+        Sadaso
+    Phantom Troupe
+        Chrollo
+        Uvogin
+        Shizuku
+        Nobunaga
+        Shalnark
+        Feitan
+        Franklin
+        Phinks
+        Machi
+        Pakunoda
+        Kortopi
+        Bonolenov
+        Hisoka
+        Kalluto
+    Nen
+        Aura
+        Node
+        Ten
+        Zetsu
+        Ren
+        Hatsu
+        Gyo
+        In
+        En
+        Shu
+        Ko
+        Ken
+        Ryu
+        Water Divination
+        Enhancer
+        Transmuter
+        Emitter
+        Conjurer
+        Manipulator
+        Specialist
+        Barrier
+        Collaborative
+        Compound
+        Counteractive
+        Curse
+        Diffusive
+        Double
+        Exorcism
+        Haunting
+        Land Mine
+        Loan
+        Nen Beast
+        Parasite
+        Supportive
+        Symbiotic
+        Condition
+        Activation
+    Greed Island Spell Cards
+        Peek
+        Fluoroscopy
+        Defensive Wall
+        Reflect
+        Magnetic Force
+        Pickpocket
+        Thief
+        Trade
+        Return
+        Mimic
+        Clone
+        Relegate
+        Origin
+        Leave
+        Clairvoyance
+        Drift
+        Collision
+        Levy
+        Drawbridge
+        Fake
+        Mug
+        Corruption
+        Compromise
+        Dispel
+        Blackout Curtain
+        Holy Water
+        Trace
+        Rock Toss
+        Bullet
+        Guidepost
+        Analysis
+        Lottery
+        Cling
+        Purify
+        Fortress
+        Eye of God
+        Recycle
+        List
+        Accompany
+        Contact
+    Special Nen Abilities
+        Jajanken
+        Order Stamp
+        Texture Surprise
+        Inamura
+        Countdown
+        Ghostwriter
+        Marking
+        Blinky
+        Finger Gun
+        Emperor Time
+        Janken Rock
+        Janken Scissors
+        Janken Paper
+        Chain Jail
+        Bungee Gum
+        Rising Sun
+        Hakoware
+        Doppelganger
+        Exorcism
+        Predator
+        Electricity
+        Yoyo
+        Deep Purple
+        Surfs Up
+        Tag
+        Puppeteer
+        Dragon Rain
+        Silent Waltz
+        Hotel Rafflesia
+        Hide and Seek
+        Queen Shot
+        Dragon Head
+        Beelzebub
+        Smoky Jail
+        Missile Man
+        Godspeed
+        Rental Pod
+        Bizeff
+    Zoldycks
+        Maha
+        Zeno
+        Silva
+        Kikyo
+        Illumi
+        Milluki
+        Alluka
+        Kalluto
+        Zebro
+        Mike
+        Gotoh
+        Killua
+        Canary
+        Seaquant
+        Hishita
+    Hunters
+        Gon
+        Killua
+        Hanzo
+        Pokkle
+        Hisoka
+        Illumi
+        Netero
+        Knuckle
+        Morel
+        Knov
+        Palm
+        Ging
+        Binolt
+        Seaquant
+        Lippo
+        Saiyu
+        Buhara
+        Menchi
+        Melody
+        Satotz
+        Biscuit
+        Basho
+        Dwun
+        Goreinu
+        Kite
+        Wing
+    Chimera Ant
+        Mereum
+        Neferpitou
+        Shaiapouf
+        Menthuthuyoupi
+        Queen
+        Colt
+        Hagya
+        Leol
+        Flutter
+        Welfin
+        Ikalgo
+        Mosquito
+        Centipede
+        Peggy
+        Rammot
+        Cheetu
+        Bolster
+        Morel
+        Knov
+        Knuckle
+        Shoot
+        Netero
+        Palm
+        Zazan
+        Meleoron
+        Koala
+        Kite
+        Hollow
+        Ortho
+        Remora
+        Gyro
+        Goran
+        Pokoro
+        Alligator
+        Bihorn
+        Turtle
+        Baital
+        Yunju
+        Pike
+        Bat
+        Shidore
+        Hina
+        Biscuit
+        Feitan
+        Phinks
+        Bonolenov
+        Shalnark
+        Kalluto
+        Zeno
+        Shizuku
+        Ponzu
+        NGL
+        East Gorteau
+        Selection Day
+        Meteor City
+        Komugi
+        Gungi
+    Greed Island
+        Gon
+        Killua
+        Ging
+        Biscuit
+        Hisoka
+        Battera
+        Nickes
+        Jispa
+        Puhat
+        Genthru
+        Sub
+        Bara
+        Tsezguerra
+        Barry
+        Kess
+        Rodriot
+        Abengane
+        Goreinu
+        Binolt
+        Kazsule
+        Asta
+        Chrollo
+        Shalnark
+        Feitan
+        Phinks
+        Bonolenov
+        Kortopi
+        Machi
+        Shizuku
+        Kalluto
+        Razor
+        Elena
+        Eta
+        Dwun
+        List
+        Shiso
+        Masadora
+        Soufrabi
+        Aiai
+        Antokiba
+        Dorias
+        Rubicuta
+        Limeiro
+        Badlands
+        Bunzen
+    Hunter Exam
+        Goz
+        Pokkle
+        Kiriko
+        Noko
+        Katzo
+        Siper
+        Shishito
+        Geretta
+        Hisoka
+        Hanzo
+        Satotz
+        Tonpa
+        Nicholas
+        Amori
+        Umori
+        Imori
+        Bourbon
+        Sommy
+        Gittarackur
+        Todo
+        Ponzu
+        Agon
+        Ryu
+        Kenmi
+        Ruse
+        Cherry
+        Kyu
+        Beans
+        Bodoro
+        Kenmi
+        Netero
+        Menchi
+        Lippo
+        Togari
+        Majtani
+        Sedokan
+        Bendot
+        Johness
+        Leroute
+        Khara
+        Buhara
+        Masta
+        Illumi
+    Battle Tower
+        Zushi
+        Hisoka
+        Wing
+        Cocco
+        Gido
+        Riehlvelt
+        Sadaso
+        Kastro
+        Machi
+    Auction
+        Kurapika
+        Leorio
+        Hisoka
+        Neon
+        Melody
+        Chrollo
+        Uvogin
+        Shizuku
+        Nobunaga
+        Shalnark
+        Feitan
+        Franklin
+        Phinks
+        Machi
+        Pakunoda
+        Kortopi
+        Bonolenov
+        Owl
+        Porcupine
+        Rabid Dog
+        Leech
+        Worm
+        Silva
+        Zeno
+        Illumi
+        Kalluto
+        Zoldyck
+Jujutsu Kaisen
+    Characters
+        Akari
+        Atsuya
+        Nanami
+        Hakari
+        Maki
+        Zenin
+        Megumi
+        Fushiguro
+        Dagon
+        Hanami
+        Jogo
+        Mahito
+        Rika
+        Finger Bearer
+        Roppongi
+        Nobara
+        Panda
+        Sukuna
+        Sasaki
+        Shoko
+        Utahime
+        Nobara
+        Toji
+        Kokichi
+        Mahito
+        Geto
+        Mei Mei
+        Yuta
+        Rika
+        Okkotsu
+        Satoru
+        Maki
+        Panda
+        Inumaki
+        Yaga
+        Ijichi
+        Shoko
+        Kusakabe
+        Nanami
+        Mei Mei
+        Takuma
+        Miguel
+        Nanako
+        Mimiko
+        Manami
+        Larue
+        Geto
+        Jogo
+        Choso
+        Hanami
+        Ui Ui
+        Dagon
+        Naobito
+        Kusakabe
+        Panda
+        Larue
+        Shoko
+        Masamichi
+        Haibara
+        Ogami
+        Grasshopper
+        Hanami
+        Brain
+        Ijichi
+        Haruta
+        Nanami
+        Sukuna
+        Nanako
+        Mimiko
+        Takuma
+        Granny Ogami
+        Jiro
+        Mechamaru
+        Kasumi
+        Jogo
+        Hanami
+        Mei Mei
+        Megumi
+        Zenin
+        Haibara
+        Tsukumo
+        Nanami
+        Utahime
+        Yaga
+        Gojo
+        Geto
+        Tengen
+        Junpei
+        Nanami
+        Shota
+        Nagi
+        Dagon
+        Momo
+        Kechizu
+        Tsumiki
+        Akari
+        Eso
+        Mei Mei
+        Mechamaru
+        Kasumi
+        Noritoshi
+        Juzo
+        Utahime
+        Mahito
+        Iguchi
+        Satoru
+        Gojo
+        Shoko
+        Hammer
+        Ijichi
+        Maki
+        Panda
+        Inumaki
+        Tengen
+        Toge
+        Inumaki
+        Yuji
+        Itadori
+        Yuta
+        Todo
+        Utahime
+        Mai
+        Kasumi
+        Yoshinobu
+        Sukuna
+        Toji
+        Kenjaku
+        Geto
+        Uraume
+        Junpei
+        Haruta
+        Awasaka
+        Mahito
+        Rika
+        Jogo
+        Hanami
+        Dagon
+        Choso
+    Villains
+        Dagon
+        Hanami
+        Jogo
+        Mahito
+        Finger Bearer
+        Roppongi
+        Sukuna
+        Brain
+        Geto
+        Toji
+        Granny Ogami
+        Jiro
+        Takuma
+        Choso
+        Kechizu
+        Eso
+        Gakugonji
+    Curses
+        Spirit
+        Dagon
+        Hanami
+        Jogo
+        Mahito
+        Rika
+        Finger Bearer
+        Roppongi
+        Energy
+        Technique
+    Curse Techniques
+        Antigravity
+        Black Bird
+        Blazing Courage
+        Cloning
+        Construction
+        Disaster
+        Transfiguration
+        Immortality
+        Puppet
+        Rot
+        Straw Doll
+        Seance
+        Tool
+        Domain
+        Falling Blossom
+        Batto Sword
+        Curtain
+        Hammer and Nail
+        Malevolent Shrine
+        Nue
+        Toad
+        Reverse Curse
+        Limitless
+        Flower Field
+        Ember Insects
+        Cursed Speech
+        Divergent Fist
+        Ratio
+        Moon Dregs
+        Ultimate Cannon
+        Gorilla Mode
+        Playful Cloud
+        Black Flash
+        Boogie Woogie
+        Max Elephant
+        Hairpin
+        Ultra Cannon
+        Body Repel
+        Supernova
+        Blood
+        Mahoraga
+        Pigeon Viola
+        Convergence
+        Inverse
+        Bird Strike
+        Miracles
+        Projection
+        Death Swarm
+        Wind Scythe
+        Rabbit Escape
+    Season 1
+        Fushiguro
+        Gojo
+        Itadori
+        Occult Club
+        Curse
+        Divine Dogs
+        Finger
+        Sukuna
+        Sasaki
+        Iguchi
+        Jujutsu
+        Tokyo
+        Yaga
+        Nobara
+        Slaughter Demon
+        Hammer
+        Ijichi
+        Special Grade
+        Curtain
+        Tadashi
+        Malevolent Shrine
+        Finger Bearer
+        Maki
+        Panda
+        Inumaki
+        Sister School
+        Goodwill Event
+        Shoko
+        Prison Realm
+        Jogo
+        Hanami
+        Dagon
+        Unlimited Void
+        Mahito
+        Limitless
+        Flower Field
+        Gakugonji
+        Todo
+        Junpei
+        Nanami
+        Shota
+        Nagi
+        Moon Dregs
+        Kyoto
+        Momo
+        Mechamaru
+        Kasumi
+        Noritoshi
+        Juzo
+        Utahime
+        Black Flash
+        Death Painting
+        Kechizu
+        Tsumiki
+        Akari
+        Eso
+        Mei Mei
+    Hidden Inventory
+        Mei Mei
+        Utahime
+        Yaga
+        Gojo
+        Geto
+        Tengen
+        Star Plasma
+        Time Vessel
+        Riko
+        Misato
+        Toji
+        Limitless
+        Inverted Spear
+        Reverse Curse
+        Hollow
+        Megumi
+        Zenin
+        Haibara
+        Tsukumo
+        Nanami
+    Shibuya
+        Utahime
+        Kokichi
+        Mahito
+        Geto
+        Hanami
+        Mechamaru
+        Kasumi
+        Shibuya
+        Curtain
+        Mei Mei
+        Jogo
+        Choso
+        Hanami
+        Grasshopper
+        Body Repel
+        Supernova
+        Prison Realm
+        Brain
+        Ijichi
+        Haruta
+        Nanami
+        Sukuna
+        Nanako
+        Mimiko
+        Takuma
+        Granny Ogami
+        Jiro
+        Nue
+        Toad
+        Toji
+        Rabbit
+        Max Elephant
+        Nobara
+        Smallpox
+        Ui Ui
+        Dagon
+        Naobito
+        Kusakabe
+        Panda
+        Larue
+        Shoko
+        Masamichi
+        Haibara
+        Ogami
+    JJK 0
+        Yuta
+        Rika
+        Okkotsu
+        Satoru
+        Maki
+        Panda
+        Inumaki
+        Yaga
+        Ijichi
+        Shoko
+        Kusakabe
+        Nanami
+        Mei Mei
+        Takuma
+        Miguel
+        Nanako
+        Mimiko
+        Manami
+        Larue
+        Geto
+Attack on Titan
+    Characters
+        Eren
+        Mikasa
+        Arwin
+        Jean
+        Conny
+        Sasha
+        Levi
+        Hange
+        Erwin
+        Reiner
+        Bertholdt
+        Annie
+        Hannes
+        Kenny
+        Sadies
+        Magath
+        Zachary
+        Historia
+        Ymir
+        Fritz
+        Grisha
+        Dina
+        Pieck
+        Falco
+        Gabi
+        Porco
+        Onyakapon
+        Yelena
+        Zeke
+        Floch
+    Villains
+        Fritz
+        Magath
+        Koslow
+        Porco
+        Colt
+        Marco
+        Gross
+        Zachary
+        Reiss
+        Tybur
+        Reiner
+        Annie
+        Bertholdt
+        Pieck
+        Falco
+        Gabi
+        Zeke
+        Ymir
+    Titans
+        Attack
+        Armor
+        Cart
+        Jaw
+        Founding
+        War Hammer
+        Beast
+        Colossus
+        Female
+        Fritz
+        Kruger
+        Reiss
+        Ksaver
+        Grisha
+        Zeke
+        Pieck
+        Marcel
+        Bertholdt
+        Reiner
+        Annie
+        Yaeger
+        Tybur
+        Armin
+        Ymir
+        Porco
+        Falco
+        Dina
+        Abnormal
+    Scouts
+        Eren
+        Mikasa
+        Armin
+        Jean
+        Conny
+        Sasha
+        Levi
+        Hange
+        Erwin
+        Dieter
+        Moblit
+        Keiji
+        Abel
+        Petra
+        Gunther
+        Moses
+        Marco
+        Reiner
+        Bertholdt
+        Flagon
+        Dirk
+        Marlene
+        Klaus
+        Harold
+        Rashad
+        Marlo
+        Lauda
+        Darius
+        Nifa
+        Holger
+        Louise
+        Floch
+        Gordon
+        Sandra
+        Abel
+        Peer
+        Beirer
+        Nanaba
+        Gelgar
+        Henning
+        Lynne
+        Jurgen
+        Ivan
+        Oruo
+        Furian
+    Military Police
+        Annie
+        Dennis
+        Waltz
+        Boris
+        Roger
+        Kenny
+        Hitch
+        Ralph
+        Djel
+        Marlo
+        Caven
+        Duran
+    Garrison
+        Kitz
+        Carsten
+        Rico
+        Gustav
+        Pyxis
+        Lobov
+        Hannes
+        Dietrich
+        Mitabi
+        Samuel
+        Floch
+        Daz
+        Gordon
+        Sandra
+        Hugo
+    Paradis Leaders
+        Zachary
+        Fritz
+        Uri
+        Frieda
+        Reiss
+        Aurille
+        Gerald
+        Roderich
+        Deltoff
+        Historia
+        Pyxis
+        Yaeger
+        Floch
+        Dawk
+        Erwin
+        Sadies
+    Marley
+        Zeke
+        Magath
+        Calvi
+        Bertholdt
+        Reiner
+        Annie
+        Pieck
+        Kruger
+        Gross
+        Ksaver
+        Falco
+        Porco
+        Marcel
+        Gabi
+        Udo
+        Zofia
+        Yelena
+        Onyakapon
+        Liberio
+        Tybur
+        Helos
+        Grisha
+        Dina
+        Lakua
+        Odiha
+        Salta
+    Eldian Empire
+        Historia
+        Zachary
+        Yaeger
+        Floch
+        Paradis
+        Fritz
+        Reiss
+        Shiganshina
+        Maria
+        Rose
+        Sina
+        Trost
+        Mitras
+        Ackermann
+        Devil
+        Calaneth
+        Krolva
+        Utopia
+        Stohess
+        Ehrmich
+        Yarckel
+        Orvud
+        Underground
+        Odel
+        Radako
+        Utgard
+        Jinae
+        Sea
+        Rumbling
+        Omnidirectional
+        Thunder Spears
+    Ambassadors
+        Yelena
+        Onyakapon
+        Azumabito
+        Hizuru
+        Mideast Allied
+        Anti-Marleyan
+        Greiz
+        Ogweno
+        Tybur
+        Nambia
+        Global Alliance
+    Yaegerists
+        Floch
+        Eren
+        Zeke
+        Wim
+        Louise
+        Holger
+        Oliver
+        Samuel
+        Daz
+        Hitch
+        Surma
+        Rumbling
+        Eldia
+Vinland Saga
+    Characters
+        Thors
+        Helga
+        Thorkell
+        Thorfinn
+        Ylva
+        Leif Ericsson
+        Faxi
+        Ari
+        Harald
+        Halfdan
+        Floki
+        Magni
+        Torgrim
+        Bjorn
+        Askeladd
+        Ear
+        Sweyn
+        Jabbathe
+        Olov
+        Hordaland
+        Canute
+        Ragnar
+        Gorm
+        Willibald
+        Asgeir
+        Gratianus
+        Lydia
+        Gunnar
+        Einar
+        Snake
+        Fox
+        Badger
+        Arnheid
+        Olmar
+        Thorgil
+        Ketil
+        Sverkel
+        Gardar
+        Pater
+        Wulf
+        Estrid
+        Eadric
+        Sture
+        Thora
+        Oddny
+        Drott
+        Lotta
+        Helga
+        Ari
+        Mols
+    Villains
+        Floki
+        Thorkell
+        Sweyn
+        Canute
+        Ketil
+        Thorgil
+        Snake
+    Jomsvikings
+        Floki
+        Troll of Jom
+        Thors
+        Jomsviking
+        Sigvaldi
+        Thorkell
+        Sweyn
+        Canute
+        Jomsborg
+    Ketil's Farm
+        Ketil
+        Thorgil
+        Olmar
+        Iron Fist
+        Snake
+        Arnheid
+        Einar
+        Fox
+        Pater
+        Sverkel
+        Thorfinn
+        Gardar
+    Gods & Legends
+        Thor
+        Odin
+        Loki
+        Baldur
+        Magni
+        Modi
+        Hel
+        Aesir
+        Vanir
+        Artorius
+        Camelot
+    Places
+        Wales
+        England
+        Denmark
+        Ketil Farm
+        Gainsborough
+        Jomsborg
+        Iceland
+        Vinland
+        Faroe Islands
+        London
+        Humber River
+        France
+        Jutland
+        Jelling
+        Bath
+        Brycheiniog
+        Morgannwg
+        Wessex
+Fullmetal Alchemist
+    Characters
+        Father
+        Pride
+        Lust
+        Greed
+        Sloth
+        Envy
+        Gluttony
+        Wrath
+        Bradley
+        Selim
+        King Bradley
+        Klemin
+        Edison
+        Fox
+        Gardner
+        Harris
+        Raven
+        Marcoh
+        Mustang
+        Kimblee
+        McDougal
+        Armstrong
+        Tucker
+        Edward
+        Breda
+        Havoc
+        Fuery
+        Falman
+        Hawkeye
+        Olivier
+        Miles
+        Buccaneer
+        Karley
+        Neil
+        Bose
+        Gamelan
+        Gartner
+        Gold Tooth
+        Knox
+        Grumman
+        Brosh
+        Ross
+        Heinkel
+        Hughes
+        Sheska
+        Zampano
+        Jerso
+        Darius
+        Lowe
+        Shan
+        Ishvalan
+        Scar
+        Rio
+        Xing
+        Fu
+        Lan Fan
+        Ling
+        Mei Chang
+        Shao May
+        Xerxes
+        Hohenheim
+        Slave Twenty Three
+    Villains
+        Father
+        Pride
+        Lust
+        Greed
+        Sloth
+        Envy
+        Gluttony
+        Wrath
+        Bradley
+        Selim
+        Raven
+        Kimblee
+        Gold Tooth
+        Scar
+        Dwarf
+    Homunculi
+        Ouroboros
+        Father
+        Pride
+        Lust
+        Greed
+        Sloth
+        Envy
+        Gluttony
+        Wrath
+        Bradley
+        Selim
+    Amestris
+        King Bradley
+        Klemin
+        Edison
+        Fox
+        Gardner
+        Harris
+        Raven
+        Marcoh
+        Mustang
+        Kimblee
+        McDougal
+        Armstrong
+        Tucker
+        Edward
+        Breda
+        Havoc
+        Fuery
+        Falman
+        Hawkeye
+        Olivier
+        Miles
+        Buccaneer
+        Karley
+        Neil
+        Bose
+        Gamelan
+        Gartner
+        Gold Tooth
+        Knox
+        Grumman
+        Brosh
+        Ross
+        Heinkel
+        Hughes
+        Sheska
+        Zampano
+        Jerso
+        Darius
+        Central
+        Amestris
+        Drachma
+        Briggs
+        Dublith
+        East City
+        Ishval
+        Xerxes
+        West City
+        South City
+        Rush Valley
+        Resembool
+        North City
+        Laboratory
+        Liore
+    Foreigners
+        Lowe
+        Shan
+        Ishvalan
+        Scar
+        Rio
+        Xing
+        Fu
+        Lan Fan
+        Ling
+        Mei Chang
+        Shao May
+        Xerxes
+        Hohenheim
+        Slave Twenty Three
+    Alchemy
+        Truth
+        Portal
+        Equivalent
+        Exchange
+        Father
+        Dwarf
+        Homonculus
+        Philosopher Stone
+        Soul
+        Circle
+        Transmutation
+        Reverse
+        Immortality
+        Chimera
+        Soul Binding
+        Deconstruction
+        Reconstruction
+        Chi
+        Alkahestry
+    Alchemists
+        Hohenheim
+        Edward
+        Alphonse
+        Elric
+        Alex
+        Izumi
+        Tucker
+        Mustang
+        Marcoh
+        Kimblee
+        McDougal
+        Gold Tooth
+    Elrics
+        Edward
+        Alphonse
+        Trisha
+        Winry
+        Hohenheim
+        Pinako
+        Den
+        Father
+Demon Slayer
+    Characters
+        Tanjiro
+        Inosuke
+        Zenitsu
+        Muzan
+        Nezuko
+        Tamayo
+        Yushiro
+        Susamaru
+        Yahaba
+        Father
+        Mother
+        Son
+        Daughter
+        Kokushiba
+        Doma
+        Akaza
+        Hantengu
+        Gyokko
+        Gyutaro
+        Daki
+        Enmu
+        Rokuro
+        Wakuraba
+        Mukago
+        Rui
+        Kamanue
+        Kyogai
+        Giyu
+        Tomioka
+        Mitsuri
+        Kanroji
+        Obanai
+        Iguro
+        Sanemi
+        Shinazugawa
+        Gyomei
+        Himejima
+        Muichiro
+        Tokito
+        Shinobu
+        Kocho
+        Kyojuro
+        Rengoku
+        Kanau
+        Kocho
+        Sakonji
+        Tengen
+        Tanjiro
+        Nezuko
+        Giyu
+        Sakonji
+        Makomo
+        Sabito
+        Haganezuka
+        Satoko
+        Tamayo
+        Yushiro
+        Susamaru
+        Yahaba
+        Muzan
+        Zenitsu
+        Kyogai
+        Inosuke
+        Chachamaru
+        Shinobu
+        Rui
+        Kagaya
+        Nichika
+        Hinaki
+        Makio
+        Suma
+        Hinatsuru
+        Koinatsu
+        Daki
+        Gyutaro
+        Omitsu
+        Doma
+        Aoi
+        Naho
+        Warabihime
+        Akaza
+        Doma
+        Gyokko
+        Hantengu
+        Kokushibo
+        Sumiyoshi
+        Haganezuka
+        Tecchikawahara
+        Genya
+        Sanemi
+        Muichiro
+        Yoriichi
+        Hanafuda
+        Sekido
+        Karaku
+        Aizetsu
+        Urogi
+    Villains
+        Muzan
+        Susamaru
+        Yahaba
+        Kyogai
+        Father
+        Mother
+        Son
+        Daughter
+        Kokushiba
+        Doma
+        Akaza
+        Hantengu
+        Gyokko
+        Gyutaro
+        Daki
+        Enmu
+        Rokuro
+        Wakuraba
+        Mukago
+        Rui
+        Kamanue
+        Warabihime
+        Fish Demon
+        Kyogai
+    Demons
+        Muzan
+        Nezuko
+        Tamayo
+        Yushiro
+        Susamaru
+        Yahaba
+        Father
+        Mother
+        Son
+        Daughter
+        Kokushiba
+        Doma
+        Akaza
+        Hantengu
+        Gyokko
+        Gyutaro
+        Daki
+        Enmu
+        Rokuro
+        Wakuraba
+        Mukago
+        Rui
+        Kamanue
+        Kyogai
+    Hashira
+        Giyu
+        Tomioka
+        Mitsuri
+        Kanroji
+        Obanai
+        Iguro
+        Sanemi
+        Shinazugawa
+        Gyomei
+        Himejima
+        Muichiro
+        Tokito
+        Shinobu
+        Kocho
+        Kyojuro
+        Rengoku
+        Kanau
+        Kocho
+        Sakonji
+        Tengen
+        Water
+        Love
+        Serpent
+        Wind
+        Stone
+        Mist
+        Insect
+        Flame
+        Flower
+    Kimetsu no Yaiba
+        Tanjiro
+        Nezuko
+        Giyu
+        Sakonji
+        Makomo
+        Sabito
+        Nichirin
+        Haganezuka
+        Satoko
+        Tamayo
+        Yushiro
+        Susamaru
+        Yahaba
+        Muzan
+        Zenitsu
+        Kyogai
+        Inosuke
+        Chachamaru
+        Mount Natagumo
+        Shinobu
+        Rui
+        Kagaya
+        Nichika
+        Hinaki
+        Wisteria
+    Mugen Train
+        Rengoku
+        Slasher
+        Akaza
+        Tomi
+        Tasty
+        Flame Breathing
+        Conductor
+        Train
+        Dream
+        Enmu
+        Nightmare
+        Zenitsu
+        Nezuko
+        Ponjiro
+        Subconscious
+        Suicide
+    Entertainment District
+        Tengen
+        Entertainment
+        Makio
+        Suma
+        Hinatsuru
+        Koinatsu
+        Daki
+        Gyutaro
+        Omitsu
+        Doma
+        Aoi
+        Naho
+        Warabihime
+        Sun Breathing
+        Sound Hashira
+        Yoshiwara
+        Red Light District
+        Courtesan
+        Tokito
+        Ogimoto
+        Kyogoku
+        Hinokami Kagura
+        Shinobi
+    Swordsmith Village
+        Infinity Castle
+        Akaza
+        Doma
+        Gyokko
+        Hantengu
+        Kokushibo
+        Spider Lily
+        Sumiyoshi
+        Haganezuka
+        Swordsmith
+        Hyotokko
+        Mitsuri
+        Tecchikawahara
+        Genya
+        Sanemi
+        Muichiro
+        Yoriichi
+        Hanafuda
+        Mist Breathing
+        Sekido
+        Karaku
+        Aizetsu
+        Urogi
+        Fish Demon
+        Kotetsu
+        Water Prison
+        Zohakuten
+    Breathing Styles
+        Total Concentration
+        Recovery
+        Sun
+        Water
+        Flame
+        Thunder
+        Stone
+        Wind
+        Moon
+        Flower
+        Insect
+        Serpent
+        Love
+        Sound
+        Mist
+        Beast
+        Raging Sun
+        Clear Blue Sky
+        Sunflower
+        Fire Wheel
+        Flame Dance
+        Dancing Flash
+        Water Wheel
+        Striking Tide
+        Whirlpool
+        Rising Sun
+        Flame Tiger
+        Love Pangs
+        Catlove Shower
+        Thunderclap
+        Thunder Swarm
+        Distant Thunder
+        String Performance
+        Pierce
+        Devour
+        Slice n Dice
+        Crazy Cutting
+        Whirling Fangs
+        Eight Layered Mist
+        Obscuring Cloud
